@@ -1,4 +1,6 @@
-# new
+# Basic Vue Front End
+
+A Basic Vue front end with client-side rendering and Axios from Api calls.
 
 ## Project setup
 ```
